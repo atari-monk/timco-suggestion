@@ -1,0 +1,6 @@
+Video6 - Building a Suggestion Site App - Lesson 6
+    Doing it in VSCode instead of VS
+    Setup solution and projects
+    Clean projects, add folders
+    Add nugets
+    Add lib ref to App
