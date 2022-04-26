@@ -8,3 +8,11 @@ Video7 -
     Global usings
     RegisterServices moved to class from program
     add cache to services
+Video8 -
+    CategoryModel
+    Remove nullable to rem warns
+    StatusModel
+    SuggestionModel
+    UserModel
+    BasicSuggestionModel
+    BasicUserModel
