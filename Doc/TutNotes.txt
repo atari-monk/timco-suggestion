@@ -16,3 +16,7 @@ Video8 -
     UserModel
     BasicSuggestionModel
     BasicUserModel
+Video9 - 
+    appsettings config
+    secrets
+    DbConnection
