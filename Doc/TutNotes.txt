@@ -4,3 +4,7 @@ Video6 - Building a Suggestion Site App - Lesson 6
     Clean projects, add folders
     Add nugets
     Add lib ref to App
+Video7 -
+    Global usings
+    RegisterServices moved to class from program
+    add cache to services
