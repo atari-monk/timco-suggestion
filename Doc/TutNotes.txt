@@ -20,3 +20,5 @@ Video9 -
     appsettings config
     secrets
     DbConnection
+Video10 -
+    MongoDb Data acces classes for User, Category, Status models
