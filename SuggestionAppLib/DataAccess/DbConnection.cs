@@ -7,7 +7,7 @@ public class DbConnection : IDbConnection
 {
     private readonly IConfiguration config;
     private readonly IMongoDatabase db;
-    private string connectionId = "MongoDb";
+    private const string ConnectionId = "MongoDb";
 
     public string DbName { get; private set; }
     public string CategoryCollectionName { get; private set; } = "categories";
@@ -24,7 +24,7 @@ public class DbConnection : IDbConnection
     {
         this.config = config;
         Client = new MongoClient(
-            config.GetConnectionString(connectionId));
+            config.GetConnectionString(ConnectionId));
         DbName = config["DatabaseName"];
         db = Client.GetDatabase(DbName);
         CategoryCollection = db.GetCollection<CategoryModel>(CategoryCollectionName);

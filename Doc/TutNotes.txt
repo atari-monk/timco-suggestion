@@ -1,3 +1,4 @@
+https://youtube.com/playlist?list=PLLWMQd6PeGY0cZFMqx5ijmdaD87sJKCsU
 Video6 - Building a Suggestion Site App - Lesson 6
     Doing it in VSCode instead of VS
     Setup solution and projects
@@ -22,3 +23,6 @@ Video9 -
     DbConnection
 Video10 -
     MongoDb Data acces classes for User, Category, Status models
+Video11-
+    MongoDb Data acces classes for Suggestion
+    Add to di
