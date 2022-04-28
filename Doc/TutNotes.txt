@@ -5,11 +5,11 @@ Video6 - Building a Suggestion Site App - Lesson 6
     Clean projects, add folders
     Add nugets
     Add lib ref to App
-Video7 -
+Video7
     Global usings
     RegisterServices moved to class from program
     add cache to services
-Video8 -
+Video8
     CategoryModel
     Remove nullable to rem warns
     StatusModel
@@ -17,12 +17,14 @@ Video8 -
     UserModel
     BasicSuggestionModel
     BasicUserModel
-Video9 - 
+Video9 
     appsettings config
     secrets
     DbConnection
-Video10 -
+Video10
     MongoDb Data acces classes for User, Category, Status models
-Video11-
+Video11
     MongoDb Data acces classes for Suggestion
     Add to di
+Video12
+    Razor Component - SampleData
