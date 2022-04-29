@@ -28,3 +28,11 @@ Video11
     Add to di
 Video12
     Razor Component - SampleData
+    Add account for MongoDb in KeePass
+    Add database
+    Create user and passward, KeePass
+    Connect to Database with Compass app
+    Test page SampleData
+    Data seeded
+    Add more data to SampleData page
+    Add them once to db with SampleData bttns
