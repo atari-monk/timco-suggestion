@@ -36,3 +36,6 @@ Video12
     Data seeded
     Add more data to SampleData page
     Add them once to db with SampleData bttns
+Video13
+    Main page Suggestions in index.razor
+    @page "/" //rootpage
