@@ -37,5 +37,10 @@ Video12
     Add more data to SampleData page
     Add them once to db with SampleData bttns
 Video13
-    Main page Suggestions in index.razor
+    Main page code, Suggestions in index.razor
     @page "/" //rootpage
+Video14
+    Main page html
+    Był błąd w danych byłu ustawione na Archived = true a więc nie ściągał danych
+    Struktura najpierw
+    potem stylowanie
