@@ -44,3 +44,5 @@ Video14
     Był błąd w danych byłu ustawione na Archived = true a więc nie ściągał danych
     Struktura najpierw
     potem stylowanie
+Video15
+    Suggestion Details page
