@@ -2,7 +2,8 @@ using Microsoft.Extensions.Caching.Memory;
 
 namespace SuggestionAppLib.DataAccess;
 
-public class MongoSuggestionData : ISuggestionData
+public class MongoSuggestionData 
+    : ISuggestionData
 {
     private readonly IDbConnection dblink;
     private readonly IUserData userData;
@@ -34,6 +35,19 @@ public class MongoSuggestionData : ISuggestionData
         return output;
     }
 
+    public async Task<List<SuggestionModel>> GetUsersSuggestions(string userId)
+    {
+        var output = cache.Get<List<SuggestionModel>>(userId);
+        if (output is null)
+        {
+            var results = await suggestions.FindAsync(s => s.Author.Id == userId);
+            output = results.ToList();
+
+            cache.Set(userId, output, TimeSpan.FromMinutes(1));
+        }
+        return output;
+    }
+     
     public async Task<List<SuggestionModel>> GetAllApprovedSuggestions()
     {
         var output = await GetAllSuggestions();

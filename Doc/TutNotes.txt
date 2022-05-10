@@ -48,3 +48,5 @@ Video15
     Suggestion Details page
 Video16
     Create page
+Video17
+    Profile page
