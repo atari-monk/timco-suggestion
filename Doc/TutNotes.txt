@@ -50,3 +50,6 @@ Video16
     Create page
 Video17
     Profile page
+Video18
+    Admin page
+    Not Auhorized page
