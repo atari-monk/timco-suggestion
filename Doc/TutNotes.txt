@@ -53,3 +53,5 @@ Video17
 Video18
     Admin page
     Not Auhorized page
+Video19
+    Cant create authentication service in azure without paid sub 
