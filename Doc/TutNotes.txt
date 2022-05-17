@@ -67,3 +67,6 @@ Video20
     Add azure auth to App.razor
 Video21
     Use azure b2c auth in app
+Video22
+    Update User db data from auth data
+    Update Upvote logic with auth
