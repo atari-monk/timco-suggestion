@@ -70,3 +70,5 @@ Video21
 Video22
     Update User db data from auth data
     Update Upvote logic with auth
+Video23
+    css Styles
