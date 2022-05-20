@@ -71,4 +71,6 @@ Video22
     Update User db data from auth data
     Update Upvote logic with auth
 Video23
-    css Styles
+    css Styles structure for index page
+Video24
+    css styles for index page
