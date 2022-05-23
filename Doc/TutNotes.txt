@@ -74,3 +74,5 @@ Video23
     css Styles structure for index page
 Video24
     css styles for index page
+Video25
+    css for list of suggestions
