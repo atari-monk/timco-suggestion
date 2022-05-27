@@ -76,3 +76,6 @@ Video24
     css styles for index page
 Video25
     css for list of suggestions
+Video26
+    1) css classes and styling for login links
+    2) for Create
