@@ -79,3 +79,6 @@ Video25
 Video26
     1) css classes and styling for login links
     2) for Create
+Video27
+    1) Details page styling
+    
