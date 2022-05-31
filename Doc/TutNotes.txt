@@ -81,4 +81,7 @@ Video26
     2) for Create
 Video27
     1) Details page styling
-    
+Video 28
+    1) Styling admin page
+    2) Styling Profile page
+    3) Styling Not authorized page
