@@ -85,3 +85,6 @@ Video 28
     1) Styling admin page
     2) Styling Profile page
     3) Styling Not authorized page
+Video 29
+    1) archive btn for admin
+    2) set status by admin
