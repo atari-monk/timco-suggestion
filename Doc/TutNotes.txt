@@ -90,3 +90,8 @@ Video 29
     2) set status by admin
 Video 30
     Tweak pages and style for mobile
+Video 31
+    Separete code from views
+    Test happy path for admin and user
+    Test edge cases 
+    End
