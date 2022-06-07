@@ -88,3 +88,5 @@ Video 28
 Video 29
     1) archive btn for admin
     2) set status by admin
+Video 30
+    Tweak pages and style for mobile
